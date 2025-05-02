@@ -1,14 +1,8 @@
-<style>
-  img {
-    width: 100%; 
-    height: 200; 
-    object-fit: auto; 
-  }
-</style>
-
-
 <p align="center">
-  <img src="cat.jpg" >
+  <img 
+    src="cat.jpg"
+    width="100%"
+  >
 </p>
 
 <h1 align="center">PTI_solutions</h1>
