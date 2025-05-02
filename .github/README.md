@@ -1,11 +1,11 @@
 <p class="center">
   <img
-  srcset="котяра.jpg 700w"
+  srcset="cat.jpg 700w"
   sizes="
       (max-width: 1000) 500w
       (max-width: 300) 150w
   "
-  src="котяра.jpg
+  src="cat.jpg
   height="250" />
 </p>
 
