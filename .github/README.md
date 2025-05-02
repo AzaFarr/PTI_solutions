@@ -1,10 +1,15 @@
 <p align="center">
   <img
+    srcset="cat.jpg 700w"
+    sizes="
+      (max-width: 1000) 500w
+      (max-width: 300) 150w
+    "
     src="cat.jpg"
-    height="250"
-  />
-  <h1>PTI_solutions</h1>
+    height="250" />
 </p>
+
+<h1 align="center">PTI_solutions</h1>
 
 <h2>Всем привет! Просьба прочитать нескучный набор символов ниже </h2>
 
