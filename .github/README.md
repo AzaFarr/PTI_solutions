@@ -1,5 +1,5 @@
 <style>
-  .img_scale {
+  img {
     width: 100%; 
     height: 200; 
     object-fit: cover; 
@@ -8,10 +8,7 @@
 
 
 <p align="center">
-  <img
-    class="img_scale"
-    src="cat.jpg"
-  >
+  <img src="cat.jpg" >
 </p>
 
 <h1 align="center">PTI_solutions</h1>
