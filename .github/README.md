@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="cat.jpg"
+    src=""
     width="100%"
   >
 </p>
