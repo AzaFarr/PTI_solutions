@@ -2,7 +2,7 @@
   <img
     src="cat.jpg"
     width="100%"
-    height="10%" />
+    height="1%" />
 </p>
 
 <h1 align="center">PTI_solutions</h1>
