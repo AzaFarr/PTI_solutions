@@ -1,10 +1,11 @@
 <style>
   .img_scale {
     width: 100%; 
-    height: 200px; 
+    height: 200; 
     object-fit: cover; 
   }
 </style>
+
 
 <p align="center">
   <img
@@ -25,4 +26,3 @@
   <li><a href= "https://t.me/azafarr">Автор, который шарит меньше и просто на подхвате</a></li>
 </i> 
 </ul>
-
