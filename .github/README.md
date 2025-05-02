@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    class="scale"
+    class="img_scale"
     src="cat.jpg"
-  />
+  >
 </p>
 
 <h1 align="center">PTI_solutions</h1>
@@ -18,10 +18,11 @@
 </i> 
 </ul>
 
+
 <style>
-.scale {
-  width: 100%; 
-  height: 200px; 
-  object-fit: cover; 
-}
+  .img_scale {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+  }
 </style>
