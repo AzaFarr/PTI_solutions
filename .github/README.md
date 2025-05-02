@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    class=scale
+    class="scale"
     src="cat.jpg"
   />
 </p>
