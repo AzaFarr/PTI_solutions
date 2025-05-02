@@ -2,8 +2,9 @@
   <img
     srcset="cat.jpg 700w"
     sizes="
-      (max-width: 1000) 500w
-      (max-width: 300) 150w
+      (max-width: 1000) 1000w
+      (max-width: 300) 300w
+       2000w
     "
     src="cat.jpg"
     height="250" />
