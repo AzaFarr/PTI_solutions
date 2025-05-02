@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="cat.jpg
+    src="cat.jpg"
     height="250"
   />
   <h1>PTI_solutions</h1>
