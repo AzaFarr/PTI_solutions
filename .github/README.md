@@ -21,7 +21,7 @@
 <style>
 .scale {
   width: 100%; 
-  height: 300px; 
+  height: 200px; 
   object-fit: cover; 
 }
 </style>
