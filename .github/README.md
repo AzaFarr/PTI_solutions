@@ -1,3 +1,11 @@
+<style>
+  .img_scale {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+  }
+</style>
+
 <p align="center">
   <img
     class="img_scale"
@@ -18,11 +26,3 @@
 </i> 
 </ul>
 
-
-<style>
-  .img_scale {
-    width: 100%; 
-    height: 200px; 
-    object-fit: cover; 
-  }
-</style>
