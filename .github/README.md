@@ -2,7 +2,7 @@
   img {
     width: 100%; 
     height: 200; 
-    object-fit: cover; 
+    object-fit: auto; 
   }
 </style>
 
