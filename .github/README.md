@@ -1,5 +1,4 @@
-<p class="center">
-  <img
+<img
   srcset="cat.jpg 700w"
   sizes="
       (max-width: 1000) 500w
@@ -7,7 +6,6 @@
   "
   src="cat.jpg
   height="250" />
-</p>
 
 <h>PTI_solutions</h>
 
@@ -22,8 +20,3 @@
 </i> 
 </ul>
 
-<style>
-.center {
-    text-align: center;
-}
-</style>
